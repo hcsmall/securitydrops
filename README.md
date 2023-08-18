@@ -1,7 +1,7 @@
 # securitydrops
 These are some things encountered on the road to making money, converted into articles
 
-## xise后门去除**
+## xise后门去除
 
 工具来源：https://webshell6.com/?id=4 (不出意外应该全站有后门，站长却意思全站无后门，估计是几年老黑啊)
 
