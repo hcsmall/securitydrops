@@ -1,4 +1,4 @@
-![image](https://github.com/hcsmall/securitydrops/assets/139908133/cb7fe1d4-3f6d-4e3a-98a4-920e743dacc2)# securitydrops
+# securitydrops
 These are some things encountered on the road to making money, converted into articles
 
 ## xise后门去除**
